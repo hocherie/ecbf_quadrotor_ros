@@ -1,0 +1,8 @@
+<!-- -->
+<launch>
+
+  <node pkg="ecbf_att_policy" type="policy_node.py" name="ecbf_node" output="screen">
+
+  </node>
+
+</launch>
